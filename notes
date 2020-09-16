@@ -1,0 +1,5 @@
+check for images :
+docker images
+
+run the app:
+docker-compose up
